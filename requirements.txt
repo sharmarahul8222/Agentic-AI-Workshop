@@ -1,0 +1,4 @@
+ollama # application that can host LLM
+langchain-ollama # package that can create AI agents with ollama
+langgraph #tech behind connecting LLM & tools
+langchain # package for creating AI agents
